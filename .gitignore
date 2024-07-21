@@ -1,0 +1,9 @@
+config.py
+.env
+.conda
+__pycache__
+.vscode
+*.csv
+*.png
+*.pkl
+.DS_Store
